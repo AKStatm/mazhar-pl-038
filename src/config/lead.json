@@ -1,7 +1,7 @@
 {
   "leadId": "PL-038",
   "businessName": "Dr. Mazhar ur Rehman - Heart & Lungs - Surgery Clinic",
-  "nicheId": "all niches",
+  "nicheId": "clinic",
   "category": "Doctor",
   "phone": "03004446213",
   "whatsapp": "923004446213",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Dr. Mazhar ur Rehman - Heart & Lungs - Surgery Clinic provides trusted all niches services in Lahore.",
+  "about": "Dr. Mazhar ur Rehman - Heart & Lungs - Surgery Clinic provides trusted clinic services in Lahore.",
   "urduSupport": true
 }
